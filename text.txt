@@ -2,4 +2,6 @@ Hello Kavya
 
 How are you
 
-Welcome to Github
+Welcome to GitHub
+
+Welcome to Git
